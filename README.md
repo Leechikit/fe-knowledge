@@ -8,5 +8,5 @@ knowledge about front end
 ## JavaScript
 
 * [跨域](https://github.com/Leechikit/fe-knowledge/issues/1)
-* XSS 和 CSRF
-* 防抖 和 节流
+* [XSS 和 CSRF](https://github.com/Leechikit/fe-knowledge/issues/2)
+* [防抖 和 节流](https://github.com/Leechikit/fe-knowledge/issues/3)
