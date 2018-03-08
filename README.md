@@ -5,7 +5,7 @@ knowledge about front end
 
 ## CSS
 
-* [1px border]()
+* [实现 1px border](https://github.com/Leechikit/fe-knowledge/issues/6)
 
 ## JavaScript
 
@@ -14,5 +14,9 @@ knowledge about front end
 * [防抖 和 节流](https://github.com/Leechikit/fe-knowledge/issues/3)
 * [数组去重](https://github.com/Leechikit/fe-knowledge/issues/4)
 * [Ajax工作原理](https://github.com/Leechikit/fe-knowledge/issues/5)
+* [浏览器渲染流程]()
 
 ## Vue.js
+
+* [生命周期]()
+* [组件间通信]()
