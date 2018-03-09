@@ -15,6 +15,12 @@
 
 ![](https://sfault-image.b0.upaiyun.com/130/248/1302481017-586cddaf83195_articlex)
 
+### 父子组件间
+
+先创建父组件，然后才创建子组件，当子组件创建完成并且实体dom挂载完成后父组件才挂载完成
+
+![](https://sfault-image.b0.upaiyun.com/225/705/225705772-5a8f7bbc255fe_articlex)
+
 ## update 相关
 
 ```
