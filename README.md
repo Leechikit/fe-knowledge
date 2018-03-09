@@ -14,9 +14,9 @@ knowledge about front end
 * [防抖 和 节流](https://github.com/Leechikit/fe-knowledge/issues/3)
 * [数组去重](https://github.com/Leechikit/fe-knowledge/issues/4)
 * [Ajax工作原理](https://github.com/Leechikit/fe-knowledge/issues/5)
-* [浏览器渲染流程]()
+* [浏览器渲染流程](https://github.com/Leechikit/fe-knowledge/issues/9)
 
 ## Vue.js
 
-* [生命周期]()
-* [组件间通信]()
+* [生命周期](https://github.com/Leechikit/fe-knowledge/issues/7)
+* [组件间通信](https://github.com/Leechikit/fe-knowledge/issues/8)
