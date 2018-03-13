@@ -18,6 +18,7 @@ knowledge about front end
 * [浅拷贝和深拷贝](https://github.com/Leechikit/fe-knowledge/issues/10)
 * [HTTP/HTTPS]()
 * [Event Loop]()
+* [ES6 Class]()
 
 ## Vue.js
 
