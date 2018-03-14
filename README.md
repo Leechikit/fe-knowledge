@@ -9,21 +9,27 @@ knowledge about front end
 
 ## JavaScript
 
-* [跨域](https://github.com/Leechikit/fe-knowledge/issues/1)
-* [XSS 和 CSRF](https://github.com/Leechikit/fe-knowledge/issues/2)
 * [防抖 和 节流](https://github.com/Leechikit/fe-knowledge/issues/3)
 * [数组去重](https://github.com/Leechikit/fe-knowledge/issues/4)
 * [Ajax工作原理](https://github.com/Leechikit/fe-knowledge/issues/5)
-* [浏览器渲染流程](https://github.com/Leechikit/fe-knowledge/issues/9)
 * [浅拷贝和深拷贝](https://github.com/Leechikit/fe-knowledge/issues/10)
-* [HTTP/HTTPS]()
+* [触摸事件](https://github.com/Leechikit/fe-knowledge/issues/12)
 * [Event Loop]()
 * [ES6 Class]()
+
+## 网络
+
+* [跨域](https://github.com/Leechikit/fe-knowledge/issues/1)
+* [XSS 和 CSRF](https://github.com/Leechikit/fe-knowledge/issues/2)
+* [浏览器渲染流程](https://github.com/Leechikit/fe-knowledge/issues/9)
+* [从输入URL到页面加载发生什么](https://github.com/Leechikit/fe-knowledge/issues/13)
+* [HTTP/HTTPS]()
 
 ## Vue.js
 
 * [生命周期](https://github.com/Leechikit/fe-knowledge/issues/7)
 * [组件间通信](https://github.com/Leechikit/fe-knowledge/issues/8)
+* [Vue.nextTick 和 vm.$nextTick](https://github.com/Leechikit/fe-knowledge/issues/11)
 
 ## 数据结构
 
