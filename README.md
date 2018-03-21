@@ -14,7 +14,7 @@ knowledge about front end
 * [Ajax工作原理](https://github.com/Leechikit/fe-knowledge/issues/5)
 * [浅拷贝和深拷贝](https://github.com/Leechikit/fe-knowledge/issues/10)
 * [触摸事件](https://github.com/Leechikit/fe-knowledge/issues/12)
-* [Event Loop]()
+* [Event Loop](https://github.com/Leechikit/fe-knowledge/issues/15)
 * [ES6 Class]()
 
 ## 网络
@@ -23,13 +23,14 @@ knowledge about front end
 * [XSS 和 CSRF](https://github.com/Leechikit/fe-knowledge/issues/2)
 * [浏览器渲染流程](https://github.com/Leechikit/fe-knowledge/issues/9)
 * [从输入URL到页面加载发生什么](https://github.com/Leechikit/fe-knowledge/issues/13)
-* [HTTP/HTTPS]()
+* [HTTP/HTTPS](https://github.com/Leechikit/fe-knowledge/issues/14)
 
 ## Vue.js
 
 * [生命周期](https://github.com/Leechikit/fe-knowledge/issues/7)
 * [组件间通信](https://github.com/Leechikit/fe-knowledge/issues/8)
 * [Vue.nextTick 和 vm.$nextTick](https://github.com/Leechikit/fe-knowledge/issues/11)
+* [双向绑定原理]()
 
 ## 数据结构
 
