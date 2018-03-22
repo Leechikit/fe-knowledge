@@ -6,6 +6,7 @@ knowledge about front end
 ## CSS
 
 * [实现 1px border](https://github.com/Leechikit/fe-knowledge/issues/6)
+* [CSS3动画结束监听]()
 
 ## JavaScript
 
@@ -16,6 +17,7 @@ knowledge about front end
 * [触摸事件](https://github.com/Leechikit/fe-knowledge/issues/12)
 * [Event Loop](https://github.com/Leechikit/fe-knowledge/issues/15)
 * [ES6 Class]()
+* [点击穿透]()
 
 ## 网络
 
@@ -30,7 +32,7 @@ knowledge about front end
 * [生命周期](https://github.com/Leechikit/fe-knowledge/issues/7)
 * [组件间通信](https://github.com/Leechikit/fe-knowledge/issues/8)
 * [Vue.nextTick 和 vm.$nextTick](https://github.com/Leechikit/fe-knowledge/issues/11)
-* [双向绑定原理]()
+* [Vue2.0双向绑定原理]()
 
 ## 数据结构
 
