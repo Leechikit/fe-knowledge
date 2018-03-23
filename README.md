@@ -32,7 +32,7 @@ knowledge about front end
 * [生命周期](https://github.com/Leechikit/fe-knowledge/issues/7)
 * [组件间通信](https://github.com/Leechikit/fe-knowledge/issues/8)
 * [Vue.nextTick 和 vm.$nextTick](https://github.com/Leechikit/fe-knowledge/issues/11)
-* [Vue2.0双向绑定原理]()
+* [双向数据绑定]()
 
 ## 数据结构
 
