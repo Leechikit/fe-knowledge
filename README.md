@@ -16,8 +16,8 @@ knowledge about front end
 * [浅拷贝和深拷贝](https://github.com/Leechikit/fe-knowledge/issues/10)
 * [触摸事件](https://github.com/Leechikit/fe-knowledge/issues/12)
 * [Event Loop](https://github.com/Leechikit/fe-knowledge/issues/15)
+* [点击穿透](https://github.com/Leechikit/fe-knowledge/issues/16)
 * [ES6 Class]()
-* [点击穿透]()
 
 ## 网络
 
@@ -32,7 +32,7 @@ knowledge about front end
 * [生命周期](https://github.com/Leechikit/fe-knowledge/issues/7)
 * [组件间通信](https://github.com/Leechikit/fe-knowledge/issues/8)
 * [Vue.nextTick 和 vm.$nextTick](https://github.com/Leechikit/fe-knowledge/issues/11)
-* [双向数据绑定]()
+* [双向数据绑定](https://github.com/Leechikit/fe-knowledge/issues/17)
 
 ## 数据结构
 
