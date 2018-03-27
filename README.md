@@ -34,7 +34,8 @@ knowledge about front end
 * [Vue.nextTick 和 vm.$nextTick](https://github.com/Leechikit/fe-knowledge/issues/11)
 * [双向数据绑定](https://github.com/Leechikit/fe-knowledge/issues/17)
 
-## 数据结构
+## 数据结构和算法
 
 * [链表]()
 * [二叉搜索树]()
+* [算法](https://github.com/Leechikit/fe-knowledge/issues/18)
