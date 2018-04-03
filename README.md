@@ -18,6 +18,8 @@ knowledge about front end
 * [Event Loop](https://github.com/Leechikit/fe-knowledge/issues/15)
 * [点击穿透](https://github.com/Leechikit/fe-knowledge/issues/16)
 * [ES6 Class]()
+* [ES6 Symbol]()
+* [SPA页面前端如何架构]()
 
 ## 网络
 
